@@ -1,7 +1,7 @@
 # Bienvenue sur mon Github 👋
 
 ## My current project
-[![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)] (https://github.com/yaelxy05/findLove/tree/develop/findlove)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://github.com/yaelxy05/findLove/tree/develop/findlove)
 ## Languages et outils
 
 [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=777BB4)](https://www.php.net)
